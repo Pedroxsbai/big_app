@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "sura_no": 112,
+    "sura_name_en": "Al-Ikhlāṣ",
+    "sura_name_ar": "الإخلَاص",
+    "total_verses": 4,
+    "created_at": "2025-10-11T18:45:18.004Z"
+  },
+  "verses": [
+    {
+      "id": 6222,
+      "jozz": 30,
+      "page": 604,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 1,
+      "aya_text": "‏‏ ‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "قل هو الله أحد"
+    },
+    {
+      "id": 6223,
+      "jozz": 30,
+      "page": 604,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 2,
+      "aya_text": "‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "الله الصمد"
+    },
+    {
+      "id": 6224,
+      "jozz": 30,
+      "page": 604,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 3,
+      "aya_text": "‏‏ ‏‏ ‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "لم يلد ولم يولد"
+    },
+    {
+      "id": 6225,
+      "jozz": 30,
+      "page": 604,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 4,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "ولم يكن له كفوا أحد"
+    }
+  ]
+}

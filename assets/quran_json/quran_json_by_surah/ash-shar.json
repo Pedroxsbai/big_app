@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "sura_no": 94,
+    "sura_name_en": "Ash-Sharḥ",
+    "sura_name_ar": "الشَّرح",
+    "total_verses": 8,
+    "created_at": "2025-10-11T18:45:17.987Z"
+  },
+  "verses": [
+    {
+      "id": 6091,
+      "jozz": 30,
+      "page": 596,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 1,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ألم نشرح لك صدرك"
+    },
+    {
+      "id": 6092,
+      "jozz": 30,
+      "page": 596,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 2,
+      "aya_text": "‏‏‏‏‏‏‏ ‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ووضعنا عنك وزرك"
+    },
+    {
+      "id": 6093,
+      "jozz": 30,
+      "page": 597,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 3,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "الذي أنقض ظهرك"
+    },
+    {
+      "id": 6094,
+      "jozz": 30,
+      "page": 597,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 4,
+      "aya_text": "‏‏‏‏‏‏‏ ‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ورفعنا لك ذكرك"
+    },
+    {
+      "id": 6095,
+      "jozz": 30,
+      "page": 597,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 5,
+      "aya_text": "‏‏‏ ‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإن مع العسر يسرا"
+    },
+    {
+      "id": 6096,
+      "jozz": 30,
+      "page": 597,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 6,
+      "aya_text": "‏‏ ‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "إن مع العسر يسرا"
+    },
+    {
+      "id": 6097,
+      "jozz": 30,
+      "page": 597,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 7,
+      "aya_text": "‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإذا فرغت فانصب"
+    },
+    {
+      "id": 6098,
+      "jozz": 30,
+      "page": 597,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 8,
+      "aya_text": "‏‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإلى ربك فارغب"
+    }
+  ]
+}

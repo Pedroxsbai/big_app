@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "sura_no": 80,
+    "sura_name_en": "‘Abasa",
+    "sura_name_ar": "عَبَسَ",
+    "total_verses": 42,
+    "created_at": "2025-10-11T18:45:17.971Z"
+  },
+  "verses": [
+    {
+      "id": 5759,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 1,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "عبس وتولى"
+    },
+    {
+      "id": 5760,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 2,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "أن جاءه الأعمى"
+    },
+    {
+      "id": 5761,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 3,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "وما يدريك لعله يزكى"
+    },
+    {
+      "id": 5762,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 3,
+      "line_end": 4,
+      "aya_no": 4,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "أو يذكر فتنفعه الذكرى"
+    },
+    {
+      "id": 5763,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 5,
+      "aya_text": "‏‏‏ ‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "أما من استغنى"
+    },
+    {
+      "id": 5764,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 6,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "فأنت له تصدى"
+    },
+    {
+      "id": 5765,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 4,
+      "line_end": 5,
+      "aya_no": 7,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "وما عليك ألا يزكى"
+    },
+    {
+      "id": 5766,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 8,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "وأما من جاءك يسعى"
+    },
+    {
+      "id": 5767,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 9,
+      "aya_text": "‏‏‏ ‏‏ ‏",
+      "aya_text_emlaey": "وهو يخشى"
+    },
+    {
+      "id": 5768,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 10,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "فأنت عنه تلهى"
+    },
+    {
+      "id": 5769,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 11,
+      "aya_text": "‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "كلا إنها تذكرة"
+    },
+    {
+      "id": 5770,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 12,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فمن شاء ذكره"
+    },
+    {
+      "id": 5771,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 13,
+      "aya_text": "‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "في صحف مكرمة"
+    },
+    {
+      "id": 5772,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 6,
+      "line_end": 7,
+      "aya_no": 14,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "مرفوعة مطهرة"
+    },
+    {
+      "id": 5773,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 7,
+      "line_end": 7,
+      "aya_no": 15,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "بأيدي سفرة"
+    },
+    {
+      "id": 5774,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 7,
+      "line_end": 7,
+      "aya_no": 16,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "كرام بررة"
+    },
+    {
+      "id": 5775,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 7,
+      "line_end": 7,
+      "aya_no": 17,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "قتل الإنسان ما أكفره"
+    },
+    {
+      "id": 5776,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 7,
+      "line_end": 8,
+      "aya_no": 18,
+      "aya_text": "‏‏ ‏‏ ‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "من أي شيء خلقه"
+    },
+    {
+      "id": 5777,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 19,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "من نطفة خلقه فقدره"
+    },
+    {
+      "id": 5778,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 20,
+      "aya_text": "‏‏ ‏‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ثم السبيل يسره"
+    },
+    {
+      "id": 5779,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 21,
+      "aya_text": "‏‏ ‏‏‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ثم أماته فأقبره"
+    },
+    {
+      "id": 5780,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 22,
+      "aya_text": "‏‏ ‏‏‏ ‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ثم إذا شاء أنشره"
+    },
+    {
+      "id": 5781,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 23,
+      "aya_text": "‏ ‏‏‏ ‏‏‏ ‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "كلا لما يقض ما أمره"
+    },
+    {
+      "id": 5782,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 24,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فلينظر الإنسان إلى طعامه"
+    },
+    {
+      "id": 5783,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 25,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "أنا صببنا الماء صبا"
+    },
+    {
+      "id": 5784,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 10,
+      "line_end": 11,
+      "aya_no": 26,
+      "aya_text": "‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "ثم شققنا الأرض شقا"
+    },
+    {
+      "id": 5785,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 27,
+      "aya_text": "‏‏‏‏‏‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "فأنبتنا فيها حبا"
+    },
+    {
+      "id": 5786,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 28,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وعنبا وقضبا"
+    },
+    {
+      "id": 5787,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 29,
+      "aya_text": "‏‏‏‏‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "وزيتونا ونخلا"
+    },
+    {
+      "id": 5788,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 30,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وحدائق غلبا"
+    },
+    {
+      "id": 5789,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 31,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وفاكهة وأبا"
+    },
+    {
+      "id": 5790,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 32,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "متاعا لكم ولأنعامكم"
+    },
+    {
+      "id": 5791,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 12,
+      "line_end": 13,
+      "aya_no": 33,
+      "aya_text": "‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإذا جاءت الصاخة"
+    },
+    {
+      "id": 5792,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 34,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "يوم يفر المرء من أخيه"
+    },
+    {
+      "id": 5793,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 35,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وأمه وأبيه"
+    },
+    {
+      "id": 5794,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 13,
+      "line_end": 14,
+      "aya_no": 36,
+      "aya_text": "‏‏‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وصاحبته وبنيه"
+    },
+    {
+      "id": 5795,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 37,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "لكل امرئ منهم يومئذ شأن يغنيه"
+    },
+    {
+      "id": 5796,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 14,
+      "line_end": 15,
+      "aya_no": 38,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وجوه يومئذ مسفرة"
+    },
+    {
+      "id": 5797,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 39,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ضاحكة مستبشرة"
+    },
+    {
+      "id": 5798,
+      "jozz": 30,
+      "page": 585,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 40,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ووجوه يومئذ عليها غبرة"
+    },
+    {
+      "id": 5799,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 41,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ترهقها قترة"
+    },
+    {
+      "id": 5800,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 42,
+      "aya_text": "‏‏‏‏‏ ‏‏ ‏‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "أولئك هم الكفرة الفجرة"
+    }
+  ]
+}

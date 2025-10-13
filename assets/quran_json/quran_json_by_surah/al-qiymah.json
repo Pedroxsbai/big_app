@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "sura_no": 75,
+    "sura_name_en": "Al-Qiyāmah",
+    "sura_name_ar": "القِيَامة",
+    "total_verses": 40,
+    "created_at": "2025-10-11T18:45:17.966Z"
+  },
+  "verses": [
+    {
+      "id": 5552,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 1,
+      "aya_text": "‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "لا أقسم بيوم القيامة"
+    },
+    {
+      "id": 5553,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 2,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ولا أقسم بالنفس اللوامة"
+    },
+    {
+      "id": 5554,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 8,
+      "line_end": 9,
+      "aya_no": 3,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏‏‏ ‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "أيحسب الإنسان ألن نجمع عظامه"
+    },
+    {
+      "id": 5555,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 4,
+      "aya_text": "‏‏ ‏‏‏‏‏ ‏ ‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "بلى قادرين على أن نسوي بنانه"
+    },
+    {
+      "id": 5556,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 9,
+      "line_end": 10,
+      "aya_no": 5,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "بل يريد الإنسان ليفجر أمامه"
+    },
+    {
+      "id": 5557,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 6,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "يسأل أيان يوم القيامة"
+    },
+    {
+      "id": 5558,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 10,
+      "line_end": 11,
+      "aya_no": 7,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإذا برق البصر"
+    },
+    {
+      "id": 5559,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 8,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وخسف القمر"
+    },
+    {
+      "id": 5560,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 9,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وجمع الشمس والقمر"
+    },
+    {
+      "id": 5561,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 11,
+      "line_end": 12,
+      "aya_no": 10,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "يقول الإنسان يومئذ أين المفر"
+    },
+    {
+      "id": 5562,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 11,
+      "aya_text": "‏ ‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "كلا لا وزر"
+    },
+    {
+      "id": 5563,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 12,
+      "aya_text": "‏‏ ‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "إلى ربك يومئذ المستقر"
+    },
+    {
+      "id": 5564,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 12,
+      "line_end": 13,
+      "aya_no": 13,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ينبأ الإنسان يومئذ بما قدم وأخر"
+    },
+    {
+      "id": 5565,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 14,
+      "aya_text": "‏‏ ‏‏‏‏‏ ‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "بل الإنسان على نفسه بصيرة"
+    },
+    {
+      "id": 5566,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 15,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ولو ألقى معاذيره"
+    },
+    {
+      "id": 5567,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 16,
+      "aya_text": "‏ ‏‏‏ ‏‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "لا تحرك به لسانك لتعجل به"
+    },
+    {
+      "id": 5568,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 14,
+      "line_end": 15,
+      "aya_no": 17,
+      "aya_text": "‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "إن علينا جمعه وقرآنه"
+    },
+    {
+      "id": 5569,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 18,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإذا قرأناه فاتبع قرآنه"
+    },
+    {
+      "id": 5570,
+      "jozz": 29,
+      "page": 577,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 19,
+      "aya_text": "‏‏ ‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ثم إن علينا بيانه"
+    },
+    {
+      "id": 5571,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 20,
+      "aya_text": "‏ ‏‏ ‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "كلا بل تحبون العاجلة"
+    },
+    {
+      "id": 5572,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 21,
+      "aya_text": "‏‏‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وتذرون الآخرة"
+    },
+    {
+      "id": 5573,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 1,
+      "line_end": 2,
+      "aya_no": 22,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وجوه يومئذ ناضرة"
+    },
+    {
+      "id": 5574,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 23,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "إلى ربها ناظرة"
+    },
+    {
+      "id": 5575,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 24,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ووجوه يومئذ باسرة"
+    },
+    {
+      "id": 5576,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 2,
+      "line_end": 3,
+      "aya_no": 25,
+      "aya_text": "‏‏‏ ‏‏ ‏‏‏‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "تظن أن يفعل بها فاقرة"
+    },
+    {
+      "id": 5577,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 26,
+      "aya_text": "‏ ‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "كلا إذا بلغت التراقي"
+    },
+    {
+      "id": 5578,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 27,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "وقيل من راق"
+    },
+    {
+      "id": 5579,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 3,
+      "line_end": 4,
+      "aya_no": 28,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وظن أنه الفراق"
+    },
+    {
+      "id": 5580,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 29,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "والتفت الساق بالساق"
+    },
+    {
+      "id": 5581,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 30,
+      "aya_text": "‏‏ ‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "إلى ربك يومئذ المساق"
+    },
+    {
+      "id": 5582,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 31,
+      "aya_text": "‏‏ ‏‏‏ ‏‏ ‏‏ ‏",
+      "aya_text_emlaey": "فلا صدق ولا صلى"
+    },
+    {
+      "id": 5583,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 32,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ولكن كذب وتولى"
+    },
+    {
+      "id": 5584,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 5,
+      "line_end": 6,
+      "aya_no": 33,
+      "aya_text": "‏‏ ‏‏‏ ‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ثم ذهب إلى أهله يتمطى"
+    },
+    {
+      "id": 5585,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 34,
+      "aya_text": "‏‏‏ ‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "أولى لك فأولى"
+    },
+    {
+      "id": 5586,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 35,
+      "aya_text": "‏‏ ‏‏‏ ‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ثم أولى لك فأولى"
+    },
+    {
+      "id": 5587,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 6,
+      "line_end": 7,
+      "aya_no": 36,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "أيحسب الإنسان أن يترك سدى"
+    },
+    {
+      "id": 5588,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 7,
+      "line_end": 7,
+      "aya_no": 37,
+      "aya_text": "‏‏‏ ‏‏ ‏‏‏‏ ‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "ألم يك نطفة من مني يمنى"
+    },
+    {
+      "id": 5589,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 38,
+      "aya_text": "‏‏ ‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ثم كان علقة فخلق فسوى"
+    },
+    {
+      "id": 5590,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 8,
+      "line_end": 9,
+      "aya_no": 39,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فجعل منه الزوجين الذكر والأنثى"
+    },
+    {
+      "id": 5591,
+      "jozz": 29,
+      "page": 578,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 40,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏ ‏ ‏‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "أليس ذلك بقادر على أن يحيي الموتى"
+    }
+  ]
+}

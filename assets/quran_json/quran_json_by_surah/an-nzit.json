@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "sura_no": 79,
+    "sura_name_en": "An-Nāzi‘āt",
+    "sura_name_ar": "النَّازعَات",
+    "total_verses": 46,
+    "created_at": "2025-10-11T18:45:17.970Z"
+  },
+  "verses": [
+    {
+      "id": 5713,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 1,
+      "aya_text": "‏‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "والنازعات غرقا"
+    },
+    {
+      "id": 5714,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 2,
+      "aya_text": "‏‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "والناشطات نشطا"
+    },
+    {
+      "id": 5715,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 3,
+      "aya_text": "‏‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "والسابحات سبحا"
+    },
+    {
+      "id": 5716,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 4,
+      "aya_text": "‏‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "فالسابقات سبقا"
+    },
+    {
+      "id": 5717,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 5,
+      "aya_text": "‏‏‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "فالمدبرات أمرا"
+    },
+    {
+      "id": 5718,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 6,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "يوم ترجف الراجفة"
+    },
+    {
+      "id": 5719,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 7,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "تتبعها الرادفة"
+    },
+    {
+      "id": 5720,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 8,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "قلوب يومئذ واجفة"
+    },
+    {
+      "id": 5721,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 9,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "أبصارها خاشعة"
+    },
+    {
+      "id": 5722,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 10,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏‏‏ ‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "يقولون أئنا لمردودون في الحافرة"
+    },
+    {
+      "id": 5723,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 11,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "أئذا كنا عظاما نخرة"
+    },
+    {
+      "id": 5724,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 13,
+      "line_end": 14,
+      "aya_no": 12,
+      "aya_text": "‏‏‏‏‏ ‏‏‏ ‏‏‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "قالوا تلك إذا كرة خاسرة"
+    },
+    {
+      "id": 5725,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 13,
+      "aya_text": "‏‏‏‏‏ ‏ ‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإنما هي زجرة واحدة"
+    },
+    {
+      "id": 5726,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 14,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإذا هم بالساهرة"
+    },
+    {
+      "id": 5727,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 15,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "هل أتاك حديث موسى"
+    },
+    {
+      "id": 5728,
+      "jozz": 30,
+      "page": 583,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 16,
+      "aya_text": "‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "إذ ناداه ربه بالواد المقدس طوى"
+    },
+    {
+      "id": 5729,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 17,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏‏ ‏",
+      "aya_text_emlaey": "اذهب إلى فرعون إنه طغى"
+    },
+    {
+      "id": 5730,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 18,
+      "aya_text": "‏‏‏ ‏‏ ‏‏ ‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "فقل هل لك إلى أن تزكى"
+    },
+    {
+      "id": 5731,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 19,
+      "aya_text": "‏‏‏‏‏‏ ‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وأهديك إلى ربك فتخشى"
+    },
+    {
+      "id": 5732,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 20,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فأراه الآية الكبرى"
+    },
+    {
+      "id": 5733,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 21,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "فكذب وعصى"
+    },
+    {
+      "id": 5734,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 22,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "ثم أدبر يسعى"
+    },
+    {
+      "id": 5735,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 23,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فحشر فنادى"
+    },
+    {
+      "id": 5736,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 24,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "فقال أنا ربكم الأعلى"
+    },
+    {
+      "id": 5737,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 25,
+      "aya_text": "‏‏‏‏‏ ‏‏ ‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فأخذه الله نكال الآخرة والأولى"
+    },
+    {
+      "id": 5738,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 26,
+      "aya_text": "‏‏ ‏ ‏‏‏ ‏‏‏‏‏ ‏‏‏ ‏‏ ‏",
+      "aya_text_emlaey": "إن في ذلك لعبرة لمن يخشى"
+    },
+    {
+      "id": 5739,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 5,
+      "line_end": 6,
+      "aya_no": 27,
+      "aya_text": "‏‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏ ‏‏‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "أأنتم أشد خلقا أم السماء بناها"
+    },
+    {
+      "id": 5740,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 28,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "رفع سمكها فسواها"
+    },
+    {
+      "id": 5741,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 6,
+      "line_end": 7,
+      "aya_no": 29,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وأغطش ليلها وأخرج ضحاها"
+    },
+    {
+      "id": 5742,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 7,
+      "line_end": 7,
+      "aya_no": 30,
+      "aya_text": "‏‏‏‏‏ ‏‏‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "والأرض بعد ذلك دحاها"
+    },
+    {
+      "id": 5743,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 7,
+      "line_end": 8,
+      "aya_no": 31,
+      "aya_text": "‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "أخرج منها ماءها ومرعاها"
+    },
+    {
+      "id": 5744,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 32,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "والجبال أرساها"
+    },
+    {
+      "id": 5745,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 33,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "متاعا لكم ولأنعامكم"
+    },
+    {
+      "id": 5746,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 34,
+      "aya_text": "‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإذا جاءت الطامة الكبرى"
+    },
+    {
+      "id": 5747,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 35,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏ ‏",
+      "aya_text_emlaey": "يوم يتذكر الإنسان ما سعى"
+    },
+    {
+      "id": 5748,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 36,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "وبرزت الجحيم لمن يرى"
+    },
+    {
+      "id": 5749,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 37,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏ ‏",
+      "aya_text_emlaey": "فأما من طغى"
+    },
+    {
+      "id": 5750,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 10,
+      "line_end": 11,
+      "aya_no": 38,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وآثر الحياة الدنيا"
+    },
+    {
+      "id": 5751,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 39,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإن الجحيم هي المأوى"
+    },
+    {
+      "id": 5752,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 11,
+      "line_end": 12,
+      "aya_no": 40,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وأما من خاف مقام ربه ونهى النفس عن الهوى"
+    },
+    {
+      "id": 5753,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 41,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فإن الجنة هي المأوى"
+    },
+    {
+      "id": 5754,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 42,
+      "aya_text": "‏‏‏‏‏‏ ‏‏ ‏‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "يسألونك عن الساعة أيان مرساها"
+    },
+    {
+      "id": 5755,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 13,
+      "line_end": 14,
+      "aya_no": 43,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فيم أنت من ذكراها"
+    },
+    {
+      "id": 5756,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 44,
+      "aya_text": "‏‏ ‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "إلى ربك منتهاها"
+    },
+    {
+      "id": 5757,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 45,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "إنما أنت منذر من يخشاها"
+    },
+    {
+      "id": 5758,
+      "jozz": 30,
+      "page": 584,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 46,
+      "aya_text": "‏‏‏‏‏ ‏‏‏ ‏‏‏‏‏‏‏ ‏‏ ‏‏‏‏‏‏ ‏‏ ‏‏‏‏ ‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "كأنهم يوم يرونها لم يلبثوا إلا عشية أو ضحاها"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "sura_no": 87,
+    "sura_name_en": "Al-A‘lā",
+    "sura_name_ar": "الأعلى",
+    "total_verses": 19,
+    "created_at": "2025-10-11T18:45:17.979Z"
+  },
+  "verses": [
+    {
+      "id": 5949,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 1,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "سبح اسم ربك الأعلى"
+    },
+    {
+      "id": 5950,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 2,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "الذي خلق فسوى"
+    },
+    {
+      "id": 5951,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 12,
+      "line_end": 13,
+      "aya_no": 3,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "والذي قدر فهدى"
+    },
+    {
+      "id": 5952,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 4,
+      "aya_text": "‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "والذي أخرج المرعى"
+    },
+    {
+      "id": 5953,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 5,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "فجعله غثاء أحوى"
+    },
+    {
+      "id": 5954,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 6,
+      "aya_text": "‏‏‏‏‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "سنقرئك فلا تنسى"
+    },
+    {
+      "id": 5955,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 7,
+      "aya_text": "‏‏ ‏‏ ‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏ ‏‏ ‏",
+      "aya_text_emlaey": "إلا ما شاء الله إنه يعلم الجهر وما يخفى"
+    },
+    {
+      "id": 5956,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 8,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ونيسرك لليسرى"
+    },
+    {
+      "id": 5957,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 9,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فذكر إن نفعت الذكرى"
+    },
+    {
+      "id": 5958,
+      "jozz": 30,
+      "page": 591,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 10,
+      "aya_text": "‏‏‏‏‏ ‏‏ ‏‏ ‏",
+      "aya_text_emlaey": "سيذكر من يخشى"
+    },
+    {
+      "id": 5959,
+      "jozz": 30,
+      "page": 592,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 11,
+      "aya_text": "‏‏‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ويتجنبها الأشقى"
+    },
+    {
+      "id": 5960,
+      "jozz": 30,
+      "page": 592,
+      "line_start": 1,
+      "line_end": 1,
+      "aya_no": 12,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "الذي يصلى النار الكبرى"
+    },
+    {
+      "id": 5961,
+      "jozz": 30,
+      "page": 592,
+      "line_start": 1,
+      "line_end": 2,
+      "aya_no": 13,
+      "aya_text": "‏‏ ‏ ‏‏‏‏ ‏‏‏‏ ‏‏ ‏‏ ‏",
+      "aya_text_emlaey": "ثم لا يموت فيها ولا يحيا"
+    },
+    {
+      "id": 5962,
+      "jozz": 30,
+      "page": 592,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 14,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "قد أفلح من تزكى"
+    },
+    {
+      "id": 5963,
+      "jozz": 30,
+      "page": 592,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 15,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "وذكر اسم ربه فصلى"
+    },
+    {
+      "id": 5964,
+      "jozz": 30,
+      "page": 592,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 16,
+      "aya_text": "‏‏ ‏‏‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "بل تؤثرون الحياة الدنيا"
+    },
+    {
+      "id": 5965,
+      "jozz": 30,
+      "page": 592,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 17,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "والآخرة خير وأبقى"
+    },
+    {
+      "id": 5966,
+      "jozz": 30,
+      "page": 592,
+      "line_start": 3,
+      "line_end": 4,
+      "aya_no": 18,
+      "aya_text": "‏‏ ‏‏‏ ‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "إن هذا لفي الصحف الأولى"
+    },
+    {
+      "id": 5967,
+      "jozz": 30,
+      "page": 592,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 19,
+      "aya_text": "‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "صحف إبراهيم وموسى"
+    }
+  ]
+}

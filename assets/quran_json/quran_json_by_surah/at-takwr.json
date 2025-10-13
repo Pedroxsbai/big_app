@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "sura_no": 81,
+    "sura_name_en": "At-Takwīr",
+    "sura_name_ar": "التَّكوير",
+    "total_verses": 29,
+    "created_at": "2025-10-11T18:45:17.972Z"
+  },
+  "verses": [
+    {
+      "id": 5801,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 1,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "إذا الشمس كورت"
+    },
+    {
+      "id": 5802,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 2,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا النجوم انكدرت"
+    },
+    {
+      "id": 5803,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 4,
+      "line_end": 5,
+      "aya_no": 3,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا الجبال سيرت"
+    },
+    {
+      "id": 5804,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 4,
+      "aya_text": "‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا العشار عطلت"
+    },
+    {
+      "id": 5805,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 5,
+      "aya_text": "‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا الوحوش حشرت"
+    },
+    {
+      "id": 5806,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 6,
+      "aya_text": "‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا البحار سجرت"
+    },
+    {
+      "id": 5807,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 7,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا النفوس زوجت"
+    },
+    {
+      "id": 5808,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 6,
+      "line_end": 7,
+      "aya_no": 8,
+      "aya_text": "‏‏‏ ‏‏‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا الموءودة سئلت"
+    },
+    {
+      "id": 5809,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 7,
+      "line_end": 7,
+      "aya_no": 9,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "بأي ذنب قتلت"
+    },
+    {
+      "id": 5810,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 7,
+      "line_end": 7,
+      "aya_no": 10,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا الصحف نشرت"
+    },
+    {
+      "id": 5811,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 11,
+      "aya_text": "‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا السماء كشطت"
+    },
+    {
+      "id": 5812,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 12,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا الجحيم سعرت"
+    },
+    {
+      "id": 5813,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 8,
+      "line_end": 9,
+      "aya_no": 13,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وإذا الجنة أزلفت"
+    },
+    {
+      "id": 5814,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 14,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "علمت نفس ما أحضرت"
+    },
+    {
+      "id": 5815,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 15,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فلا أقسم بالخنس"
+    },
+    {
+      "id": 5816,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 16,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "الجوار الكنس"
+    },
+    {
+      "id": 5817,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 17,
+      "aya_text": "‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "والليل إذا عسعس"
+    },
+    {
+      "id": 5818,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 18,
+      "aya_text": "‏‏‏‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "والصبح إذا تنفس"
+    },
+    {
+      "id": 5819,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 19,
+      "aya_text": "‏‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "إنه لقول رسول كريم"
+    },
+    {
+      "id": 5820,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 11,
+      "line_end": 11,
+      "aya_no": 20,
+      "aya_text": "‏‏ ‏‏‏ ‏‏‏ ‏‏ ‏‏‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "ذي قوة عند ذي العرش مكين"
+    },
+    {
+      "id": 5821,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 11,
+      "line_end": 12,
+      "aya_no": 21,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "مطاع ثم أمين"
+    },
+    {
+      "id": 5822,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 22,
+      "aya_text": "‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وما صاحبكم بمجنون"
+    },
+    {
+      "id": 5823,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 12,
+      "line_end": 12,
+      "aya_no": 23,
+      "aya_text": "‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ولقد رآه بالأفق المبين"
+    },
+    {
+      "id": 5824,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 24,
+      "aya_text": "‏‏‏ ‏‏ ‏ ‏‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وما هو على الغيب بضنين"
+    },
+    {
+      "id": 5825,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 25,
+      "aya_text": "‏‏‏ ‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وما هو بقول شيطان رجيم"
+    },
+    {
+      "id": 5826,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 26,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فأين تذهبون"
+    },
+    {
+      "id": 5827,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 27,
+      "aya_text": "‏‏ ‏‏ ‏‏ ‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "إن هو إلا ذكر للعالمين"
+    },
+    {
+      "id": 5828,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 14,
+      "line_end": 15,
+      "aya_no": 28,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "لمن شاء منكم أن يستقيم"
+    },
+    {
+      "id": 5829,
+      "jozz": 30,
+      "page": 586,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 29,
+      "aya_text": "‏‏‏ ‏‏‏‏‏‏ ‏‏ ‏‏ ‏‏‏‏ ‏‏ ‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وما تشاءون إلا أن يشاء الله رب العالمين"
+    }
+  ]
+}

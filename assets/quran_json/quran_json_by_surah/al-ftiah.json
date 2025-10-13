@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "sura_no": 1,
+    "sura_name_en": "Al-Fātiḥah",
+    "sura_name_ar": "الفَاتِحة",
+    "total_verses": 7,
+    "created_at": "2025-10-11T18:45:17.864Z"
+  },
+  "verses": [
+    {
+      "id": 1,
+      "jozz": 1,
+      "page": 1,
+      "line_start": 2,
+      "line_end": 2,
+      "aya_no": 1,
+      "aya_text": "‏ ‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "بسم الله الرحمن الرحيم"
+    },
+    {
+      "id": 2,
+      "jozz": 1,
+      "page": 1,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 2,
+      "aya_text": "‏‏‏‏ ‏ ‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "الحمد لله رب العالمين"
+    },
+    {
+      "id": 3,
+      "jozz": 1,
+      "page": 1,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 3,
+      "aya_text": "‏‏‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "الرحمن الرحيم"
+    },
+    {
+      "id": 4,
+      "jozz": 1,
+      "page": 1,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 4,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "مالك يوم الدين"
+    },
+    {
+      "id": 5,
+      "jozz": 1,
+      "page": 1,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 5,
+      "aya_text": "‏‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "إياك نعبد وإياك نستعين"
+    },
+    {
+      "id": 6,
+      "jozz": 1,
+      "page": 1,
+      "line_start": 5,
+      "line_end": 6,
+      "aya_no": 6,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "اهدنا الصراط المستقيم"
+    },
+    {
+      "id": 7,
+      "jozz": 1,
+      "page": 1,
+      "line_start": 6,
+      "line_end": 8,
+      "aya_no": 7,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏ ‏‏‏‏‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "صراط الذين أنعمت عليهم غير المغضوب عليهم ولا الضالين"
+    }
+  ]
+}

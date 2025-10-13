@@ -1,0 +1,808 @@
+{
+  "metadata": {
+    "total_surahs": 114,
+    "total_verses": 6236,
+    "created_at": "2025-10-11T18:45:18.007Z",
+    "description": "Index of all Quran surahs with file references"
+  },
+  "surahs": [
+    {
+      "sura_no": 1,
+      "sura_name_en": "Al-Fātiḥah",
+      "sura_name_ar": "الفَاتِحة",
+      "total_verses": 7,
+      "filename": "al-ftiah.json"
+    },
+    {
+      "sura_no": 2,
+      "sura_name_en": "Al-Baqarah",
+      "sura_name_ar": "البَقَرَة",
+      "total_verses": 286,
+      "filename": "al-baqarah.json"
+    },
+    {
+      "sura_no": 3,
+      "sura_name_en": "Āl-‘Imrān",
+      "sura_name_ar": "آل عِمران",
+      "total_verses": 200,
+      "filename": "l-imrn.json"
+    },
+    {
+      "sura_no": 4,
+      "sura_name_en": "An-Nisā’",
+      "sura_name_ar": "النِّسَاء",
+      "total_verses": 176,
+      "filename": "an-nis.json"
+    },
+    {
+      "sura_no": 5,
+      "sura_name_en": "Al-Mā’idah",
+      "sura_name_ar": "المَائدة",
+      "total_verses": 120,
+      "filename": "al-midah.json"
+    },
+    {
+      "sura_no": 6,
+      "sura_name_en": "Al-An‘ām",
+      "sura_name_ar": "الأنعَام",
+      "total_verses": 165,
+      "filename": "al-anm.json"
+    },
+    {
+      "sura_no": 7,
+      "sura_name_en": "Al-A‘rāf",
+      "sura_name_ar": "الأعرَاف",
+      "total_verses": 206,
+      "filename": "al-arf.json"
+    },
+    {
+      "sura_no": 8,
+      "sura_name_en": "Al-Anfāl",
+      "sura_name_ar": "الأنفَال",
+      "total_verses": 75,
+      "filename": "al-anfl.json"
+    },
+    {
+      "sura_no": 9,
+      "sura_name_en": "At-Taubah",
+      "sura_name_ar": "التوبَة",
+      "total_verses": 129,
+      "filename": "at-taubah.json"
+    },
+    {
+      "sura_no": 10,
+      "sura_name_en": "Yūnus",
+      "sura_name_ar": "يُونس",
+      "total_verses": 109,
+      "filename": "ynus.json"
+    },
+    {
+      "sura_no": 11,
+      "sura_name_en": "Hūd",
+      "sura_name_ar": "هُود",
+      "total_verses": 123,
+      "filename": "hd.json"
+    },
+    {
+      "sura_no": 12,
+      "sura_name_en": "Yūsuf",
+      "sura_name_ar": "يُوسُف",
+      "total_verses": 111,
+      "filename": "ysuf.json"
+    },
+    {
+      "sura_no": 13,
+      "sura_name_en": "Ar-Ra‘d",
+      "sura_name_ar": "الرَّعد",
+      "total_verses": 43,
+      "filename": "ar-rad.json"
+    },
+    {
+      "sura_no": 14,
+      "sura_name_en": "Ibrāhīm",
+      "sura_name_ar": "إبراهِيم",
+      "total_verses": 52,
+      "filename": "ibrhm.json"
+    },
+    {
+      "sura_no": 15,
+      "sura_name_en": "Al-Ḥijr",
+      "sura_name_ar": "الحِجر",
+      "total_verses": 99,
+      "filename": "al-ijr.json"
+    },
+    {
+      "sura_no": 16,
+      "sura_name_en": "An-Naḥl",
+      "sura_name_ar": "النَّحل",
+      "total_verses": 128,
+      "filename": "an-nal.json"
+    },
+    {
+      "sura_no": 17,
+      "sura_name_en": "Al-Isrā’",
+      "sura_name_ar": "الإسرَاء",
+      "total_verses": 111,
+      "filename": "al-isr.json"
+    },
+    {
+      "sura_no": 18,
+      "sura_name_en": "Al-Kahf",
+      "sura_name_ar": "الكَهف",
+      "total_verses": 110,
+      "filename": "al-kahf.json"
+    },
+    {
+      "sura_no": 19,
+      "sura_name_en": "Maryam",
+      "sura_name_ar": "مَريَم",
+      "total_verses": 98,
+      "filename": "maryam.json"
+    },
+    {
+      "sura_no": 20,
+      "sura_name_en": "Ṭā-Hā",
+      "sura_name_ar": "طه",
+      "total_verses": 135,
+      "filename": "-h.json"
+    },
+    {
+      "sura_no": 21,
+      "sura_name_en": "Al-Anbiyā’",
+      "sura_name_ar": "الأنبيَاء",
+      "total_verses": 112,
+      "filename": "al-anbiy.json"
+    },
+    {
+      "sura_no": 22,
+      "sura_name_en": "Al-Ḥajj",
+      "sura_name_ar": "الحج",
+      "total_verses": 78,
+      "filename": "al-ajj.json"
+    },
+    {
+      "sura_no": 23,
+      "sura_name_en": "Al-Mu’minūn",
+      "sura_name_ar": "المؤمنُون",
+      "total_verses": 118,
+      "filename": "al-muminn.json"
+    },
+    {
+      "sura_no": 24,
+      "sura_name_en": "An-Nūr",
+      "sura_name_ar": "النور",
+      "total_verses": 64,
+      "filename": "an-nr.json"
+    },
+    {
+      "sura_no": 25,
+      "sura_name_en": "Al-Furqān",
+      "sura_name_ar": "الفُرقَان",
+      "total_verses": 77,
+      "filename": "al-furqn.json"
+    },
+    {
+      "sura_no": 26,
+      "sura_name_en": "Ash-Shu‘arā’",
+      "sura_name_ar": "الشعراء",
+      "total_verses": 227,
+      "filename": "ash-shuar.json"
+    },
+    {
+      "sura_no": 27,
+      "sura_name_en": "An-Naml",
+      "sura_name_ar": "النَّمل",
+      "total_verses": 93,
+      "filename": "an-naml.json"
+    },
+    {
+      "sura_no": 28,
+      "sura_name_en": "Al-Qaṣaṣ",
+      "sura_name_ar": "القَصَص",
+      "total_verses": 88,
+      "filename": "al-qaa.json"
+    },
+    {
+      "sura_no": 29,
+      "sura_name_en": "Al-‘Ankabūt",
+      "sura_name_ar": "العَنكبُوت",
+      "total_verses": 69,
+      "filename": "al-ankabt.json"
+    },
+    {
+      "sura_no": 30,
+      "sura_name_en": "Ar-Rūm",
+      "sura_name_ar": "الرُّوم",
+      "total_verses": 60,
+      "filename": "ar-rm.json"
+    },
+    {
+      "sura_no": 31,
+      "sura_name_en": "Luqmān",
+      "sura_name_ar": "لُقمَان",
+      "total_verses": 34,
+      "filename": "luqmn.json"
+    },
+    {
+      "sura_no": 32,
+      "sura_name_en": "As-Sajdah",
+      "sura_name_ar": "السَّجدة",
+      "total_verses": 30,
+      "filename": "as-sajdah.json"
+    },
+    {
+      "sura_no": 33,
+      "sura_name_en": "Al-Aḥzāb",
+      "sura_name_ar": "الأحزَاب",
+      "total_verses": 73,
+      "filename": "al-azb.json"
+    },
+    {
+      "sura_no": 34,
+      "sura_name_en": "Saba’",
+      "sura_name_ar": "سَبإ",
+      "total_verses": 54,
+      "filename": "saba.json"
+    },
+    {
+      "sura_no": 35,
+      "sura_name_en": "Fāṭir",
+      "sura_name_ar": "فَاطِر",
+      "total_verses": 45,
+      "filename": "fir.json"
+    },
+    {
+      "sura_no": 36,
+      "sura_name_en": "Yā-Sīn",
+      "sura_name_ar": "يسٓ",
+      "total_verses": 83,
+      "filename": "y-sn.json"
+    },
+    {
+      "sura_no": 37,
+      "sura_name_en": "Aṣ-Ṣāffāt",
+      "sura_name_ar": "الصَّافَات",
+      "total_verses": 182,
+      "filename": "a-fft.json"
+    },
+    {
+      "sura_no": 38,
+      "sura_name_en": "Ṣād",
+      "sura_name_ar": "صٓ",
+      "total_verses": 88,
+      "filename": "d.json"
+    },
+    {
+      "sura_no": 39,
+      "sura_name_en": "Az-Zumar",
+      "sura_name_ar": "الزُّمَر",
+      "total_verses": 75,
+      "filename": "az-zumar.json"
+    },
+    {
+      "sura_no": 40,
+      "sura_name_en": "Ghāfir",
+      "sura_name_ar": "غَافِر",
+      "total_verses": 85,
+      "filename": "ghfir.json"
+    },
+    {
+      "sura_no": 41,
+      "sura_name_en": "Fuṣṣilat",
+      "sura_name_ar": "فُصِّلَت",
+      "total_verses": 54,
+      "filename": "fuilat.json"
+    },
+    {
+      "sura_no": 42,
+      "sura_name_en": "Ash-Shūra",
+      "sura_name_ar": "الشُّورى",
+      "total_verses": 53,
+      "filename": "ash-shra.json"
+    },
+    {
+      "sura_no": 43,
+      "sura_name_en": "Az-Zukhruf",
+      "sura_name_ar": "الزُّخرُف",
+      "total_verses": 89,
+      "filename": "az-zukhruf.json"
+    },
+    {
+      "sura_no": 44,
+      "sura_name_en": "Ad-Dukhān",
+      "sura_name_ar": "الدُّخان",
+      "total_verses": 59,
+      "filename": "ad-dukhn.json"
+    },
+    {
+      "sura_no": 45,
+      "sura_name_en": "Al-Jāthiyah",
+      "sura_name_ar": "الجاثِية",
+      "total_verses": 37,
+      "filename": "al-jthiyah.json"
+    },
+    {
+      "sura_no": 46,
+      "sura_name_en": "Al-Aḥqāf",
+      "sura_name_ar": "الأحقَاف",
+      "total_verses": 35,
+      "filename": "al-aqf.json"
+    },
+    {
+      "sura_no": 47,
+      "sura_name_en": "Muḥammad",
+      "sura_name_ar": "مُحمد",
+      "total_verses": 38,
+      "filename": "muammad.json"
+    },
+    {
+      "sura_no": 48,
+      "sura_name_en": "Al-Fatḥ",
+      "sura_name_ar": "الفَتح",
+      "total_verses": 29,
+      "filename": "al-fat.json"
+    },
+    {
+      "sura_no": 49,
+      "sura_name_en": "Al-Ḥujurāt",
+      "sura_name_ar": "الحُجُرَات",
+      "total_verses": 18,
+      "filename": "al-ujurt.json"
+    },
+    {
+      "sura_no": 50,
+      "sura_name_en": "Qāf",
+      "sura_name_ar": "قٓ",
+      "total_verses": 45,
+      "filename": "qf.json"
+    },
+    {
+      "sura_no": 51,
+      "sura_name_en": "Adh-Dhāriyāt",
+      "sura_name_ar": "الذَّاريَات",
+      "total_verses": 60,
+      "filename": "adh-dhriyt.json"
+    },
+    {
+      "sura_no": 52,
+      "sura_name_en": "Aṭ-Ṭūr",
+      "sura_name_ar": "الطُّور",
+      "total_verses": 49,
+      "filename": "a-r.json"
+    },
+    {
+      "sura_no": 53,
+      "sura_name_en": "An-Najm",
+      "sura_name_ar": "النَّجم",
+      "total_verses": 62,
+      "filename": "an-najm.json"
+    },
+    {
+      "sura_no": 54,
+      "sura_name_en": "Al-Qamar",
+      "sura_name_ar": "القَمَر",
+      "total_verses": 55,
+      "filename": "al-qamar.json"
+    },
+    {
+      "sura_no": 55,
+      "sura_name_en": "Ar-Raḥmān",
+      "sura_name_ar": "الرَّحمٰن",
+      "total_verses": 78,
+      "filename": "ar-ramn.json"
+    },
+    {
+      "sura_no": 56,
+      "sura_name_en": "Al-Wāqi‘ah",
+      "sura_name_ar": "الوَاقِعة",
+      "total_verses": 96,
+      "filename": "al-wqiah.json"
+    },
+    {
+      "sura_no": 57,
+      "sura_name_en": "Al-Ḥadīd",
+      "sura_name_ar": "الحدِيد",
+      "total_verses": 29,
+      "filename": "al-add.json"
+    },
+    {
+      "sura_no": 58,
+      "sura_name_en": "Al-Mujādilah",
+      "sura_name_ar": "المُجَادلة",
+      "total_verses": 22,
+      "filename": "al-mujdilah.json"
+    },
+    {
+      "sura_no": 59,
+      "sura_name_en": "Al-Ḥashr",
+      "sura_name_ar": "الحَشر",
+      "total_verses": 24,
+      "filename": "al-ashr.json"
+    },
+    {
+      "sura_no": 60,
+      "sura_name_en": "Al-Mumtaḥanah",
+      "sura_name_ar": "المُمتَحنَة",
+      "total_verses": 13,
+      "filename": "al-mumtaanah.json"
+    },
+    {
+      "sura_no": 61,
+      "sura_name_en": "Aṣ-Ṣaff",
+      "sura_name_ar": "الصَّف",
+      "total_verses": 14,
+      "filename": "a-aff.json"
+    },
+    {
+      "sura_no": 62,
+      "sura_name_en": "Al-Jumu‘ah",
+      "sura_name_ar": "الجُمعَة",
+      "total_verses": 11,
+      "filename": "al-jumuah.json"
+    },
+    {
+      "sura_no": 63,
+      "sura_name_en": "Al-Munāfiqūn",
+      "sura_name_ar": "المُنَافِقُونَ",
+      "total_verses": 11,
+      "filename": "al-munfiqn.json"
+    },
+    {
+      "sura_no": 64,
+      "sura_name_en": "At-Taghābun",
+      "sura_name_ar": "التغَابُن",
+      "total_verses": 18,
+      "filename": "at-taghbun.json"
+    },
+    {
+      "sura_no": 65,
+      "sura_name_en": "Aṭ-Ṭalāq",
+      "sura_name_ar": "الطَّلَاق",
+      "total_verses": 12,
+      "filename": "a-alq.json"
+    },
+    {
+      "sura_no": 66,
+      "sura_name_en": "At-Taḥrīm",
+      "sura_name_ar": "التَّحرِيم",
+      "total_verses": 12,
+      "filename": "at-tarm.json"
+    },
+    {
+      "sura_no": 67,
+      "sura_name_en": "Al-Mulk",
+      "sura_name_ar": "المُلك",
+      "total_verses": 30,
+      "filename": "al-mulk.json"
+    },
+    {
+      "sura_no": 68,
+      "sura_name_en": "Al-Qalam",
+      "sura_name_ar": "القَلَم",
+      "total_verses": 52,
+      "filename": "al-qalam.json"
+    },
+    {
+      "sura_no": 69,
+      "sura_name_en": "Al-Ḥāqqah",
+      "sura_name_ar": "الحَاقة",
+      "total_verses": 52,
+      "filename": "al-qqah.json"
+    },
+    {
+      "sura_no": 70,
+      "sura_name_en": "Al-Ma‘ārij",
+      "sura_name_ar": "المَعَارج",
+      "total_verses": 44,
+      "filename": "al-marij.json"
+    },
+    {
+      "sura_no": 71,
+      "sura_name_en": "Nūḥ",
+      "sura_name_ar": "نُوح",
+      "total_verses": 28,
+      "filename": "n.json"
+    },
+    {
+      "sura_no": 72,
+      "sura_name_en": "Al-Jinn",
+      "sura_name_ar": "الجِن",
+      "total_verses": 28,
+      "filename": "al-jinn.json"
+    },
+    {
+      "sura_no": 73,
+      "sura_name_en": "Al-Muzzammil",
+      "sura_name_ar": "المُزمل",
+      "total_verses": 20,
+      "filename": "al-muzzammil.json"
+    },
+    {
+      "sura_no": 74,
+      "sura_name_en": "Al-Muddaththir",
+      "sura_name_ar": "المُدثر",
+      "total_verses": 56,
+      "filename": "al-muddaththir.json"
+    },
+    {
+      "sura_no": 75,
+      "sura_name_en": "Al-Qiyāmah",
+      "sura_name_ar": "القِيَامة",
+      "total_verses": 40,
+      "filename": "al-qiymah.json"
+    },
+    {
+      "sura_no": 76,
+      "sura_name_en": "Al-Insān",
+      "sura_name_ar": "الإنسَان",
+      "total_verses": 31,
+      "filename": "al-insn.json"
+    },
+    {
+      "sura_no": 77,
+      "sura_name_en": "Al-Mursalāt",
+      "sura_name_ar": "المُرسَلات",
+      "total_verses": 50,
+      "filename": "al-mursalt.json"
+    },
+    {
+      "sura_no": 78,
+      "sura_name_en": "An-Naba’",
+      "sura_name_ar": "النَّبَإ",
+      "total_verses": 40,
+      "filename": "an-naba.json"
+    },
+    {
+      "sura_no": 79,
+      "sura_name_en": "An-Nāzi‘āt",
+      "sura_name_ar": "النَّازعَات",
+      "total_verses": 46,
+      "filename": "an-nzit.json"
+    },
+    {
+      "sura_no": 80,
+      "sura_name_en": "‘Abasa",
+      "sura_name_ar": "عَبَسَ",
+      "total_verses": 42,
+      "filename": "abasa.json"
+    },
+    {
+      "sura_no": 81,
+      "sura_name_en": "At-Takwīr",
+      "sura_name_ar": "التَّكوير",
+      "total_verses": 29,
+      "filename": "at-takwr.json"
+    },
+    {
+      "sura_no": 82,
+      "sura_name_en": "Al-Infiṭār",
+      "sura_name_ar": "الانفِطَار",
+      "total_verses": 19,
+      "filename": "al-infir.json"
+    },
+    {
+      "sura_no": 83,
+      "sura_name_en": "Al-Muṭaffifīn",
+      "sura_name_ar": "المُطَففين",
+      "total_verses": 36,
+      "filename": "al-muaffifn.json"
+    },
+    {
+      "sura_no": 84,
+      "sura_name_en": "Al-Inshiqāq",
+      "sura_name_ar": "الانشِقَاق",
+      "total_verses": 25,
+      "filename": "al-inshiqq.json"
+    },
+    {
+      "sura_no": 85,
+      "sura_name_en": "Al-Burūj",
+      "sura_name_ar": "البُرُوج",
+      "total_verses": 22,
+      "filename": "al-burj.json"
+    },
+    {
+      "sura_no": 86,
+      "sura_name_en": "Aṭ-Ṭāriq",
+      "sura_name_ar": "الطَّارق",
+      "total_verses": 17,
+      "filename": "a-riq.json"
+    },
+    {
+      "sura_no": 87,
+      "sura_name_en": "Al-A‘lā",
+      "sura_name_ar": "الأعلى",
+      "total_verses": 19,
+      "filename": "al-al.json"
+    },
+    {
+      "sura_no": 88,
+      "sura_name_en": "Al-Ghāshiyah",
+      "sura_name_ar": "الغَاشِية",
+      "total_verses": 26,
+      "filename": "al-ghshiyah.json"
+    },
+    {
+      "sura_no": 89,
+      "sura_name_en": "Al-Fajr",
+      "sura_name_ar": "الفَجر",
+      "total_verses": 30,
+      "filename": "al-fajr.json"
+    },
+    {
+      "sura_no": 90,
+      "sura_name_en": "Al-Balad",
+      "sura_name_ar": "البَلَد",
+      "total_verses": 20,
+      "filename": "al-balad.json"
+    },
+    {
+      "sura_no": 91,
+      "sura_name_en": "Ash-Shams",
+      "sura_name_ar": "الشَّمس",
+      "total_verses": 15,
+      "filename": "ash-shams.json"
+    },
+    {
+      "sura_no": 92,
+      "sura_name_en": "Al-Lail",
+      "sura_name_ar": "اللَّيل",
+      "total_verses": 21,
+      "filename": "al-lail.json"
+    },
+    {
+      "sura_no": 93,
+      "sura_name_en": "Aḍ-Ḍuḥā",
+      "sura_name_ar": "الضُّحى",
+      "total_verses": 11,
+      "filename": "a-u.json"
+    },
+    {
+      "sura_no": 94,
+      "sura_name_en": "Ash-Sharḥ",
+      "sura_name_ar": "الشَّرح",
+      "total_verses": 8,
+      "filename": "ash-shar.json"
+    },
+    {
+      "sura_no": 95,
+      "sura_name_en": "At-Tīn",
+      "sura_name_ar": "التِّين",
+      "total_verses": 8,
+      "filename": "at-tn.json"
+    },
+    {
+      "sura_no": 96,
+      "sura_name_en": "Al-‘Alaq",
+      "sura_name_ar": "العَلَق",
+      "total_verses": 19,
+      "filename": "al-alaq.json"
+    },
+    {
+      "sura_no": 97,
+      "sura_name_en": "Al-Qadr",
+      "sura_name_ar": "القَدر",
+      "total_verses": 5,
+      "filename": "al-qadr.json"
+    },
+    {
+      "sura_no": 98,
+      "sura_name_en": "Al-Bayyinah",
+      "sura_name_ar": "البَينَة",
+      "total_verses": 8,
+      "filename": "al-bayyinah.json"
+    },
+    {
+      "sura_no": 99,
+      "sura_name_en": "Az-Zalzalah",
+      "sura_name_ar": "الزَّلزَلة",
+      "total_verses": 8,
+      "filename": "az-zalzalah.json"
+    },
+    {
+      "sura_no": 100,
+      "sura_name_en": "Al-‘Ādiyāt",
+      "sura_name_ar": "العَاديَات",
+      "total_verses": 11,
+      "filename": "al-diyt.json"
+    },
+    {
+      "sura_no": 101,
+      "sura_name_en": "Al-Qāri‘ah",
+      "sura_name_ar": "القَارعَة",
+      "total_verses": 11,
+      "filename": "al-qriah.json"
+    },
+    {
+      "sura_no": 102,
+      "sura_name_en": "At-Takāthur",
+      "sura_name_ar": "التَّكاثُر",
+      "total_verses": 8,
+      "filename": "at-takthur.json"
+    },
+    {
+      "sura_no": 103,
+      "sura_name_en": "Al-‘Aṣr",
+      "sura_name_ar": "العَصر",
+      "total_verses": 3,
+      "filename": "al-ar.json"
+    },
+    {
+      "sura_no": 104,
+      "sura_name_en": "Al-Humazah",
+      "sura_name_ar": "الهُمَزة",
+      "total_verses": 9,
+      "filename": "al-humazah.json"
+    },
+    {
+      "sura_no": 105,
+      "sura_name_en": "Al-Fīl",
+      "sura_name_ar": "الفِيل",
+      "total_verses": 5,
+      "filename": "al-fl.json"
+    },
+    {
+      "sura_no": 106,
+      "sura_name_en": "Quraish",
+      "sura_name_ar": "قُرَيش",
+      "total_verses": 4,
+      "filename": "quraish.json"
+    },
+    {
+      "sura_no": 107,
+      "sura_name_en": "Al-Mā‘ūn",
+      "sura_name_ar": "المَاعُون",
+      "total_verses": 7,
+      "filename": "al-mn.json"
+    },
+    {
+      "sura_no": 108,
+      "sura_name_en": "Al-Kauthar",
+      "sura_name_ar": "الكَوثر",
+      "total_verses": 3,
+      "filename": "al-kauthar.json"
+    },
+    {
+      "sura_no": 109,
+      "sura_name_en": "Al-Kāfirūn",
+      "sura_name_ar": "الكافِرون",
+      "total_verses": 6,
+      "filename": "al-kfirn.json"
+    },
+    {
+      "sura_no": 110,
+      "sura_name_en": "An-Naṣr",
+      "sura_name_ar": "النَّصر",
+      "total_verses": 3,
+      "filename": "an-nar.json"
+    },
+    {
+      "sura_no": 111,
+      "sura_name_en": "Al-Masad",
+      "sura_name_ar": "المَسَد",
+      "total_verses": 5,
+      "filename": "al-masad.json"
+    },
+    {
+      "sura_no": 112,
+      "sura_name_en": "Al-Ikhlāṣ",
+      "sura_name_ar": "الإخلَاص",
+      "total_verses": 4,
+      "filename": "al-ikhl.json"
+    },
+    {
+      "sura_no": 113,
+      "sura_name_en": "Al-Falaq",
+      "sura_name_ar": "الفَلَق",
+      "total_verses": 5,
+      "filename": "al-falaq.json"
+    },
+    {
+      "sura_no": 114,
+      "sura_name_en": "An-Nās",
+      "sura_name_ar": "النَّاس",
+      "total_verses": 6,
+      "filename": "an-ns.json"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "sura_no": 101,
+    "sura_name_en": "Al-Qāri‘ah",
+    "sura_name_ar": "القَارعَة",
+    "total_verses": 11,
+    "created_at": "2025-10-11T18:45:17.994Z"
+  },
+  "verses": [
+    {
+      "id": 6158,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 1,
+      "aya_text": "‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "القارعة"
+    },
+    {
+      "id": 6159,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 2,
+      "aya_text": "‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ما القارعة"
+    },
+    {
+      "id": 6160,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 6,
+      "line_end": 6,
+      "aya_no": 3,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وما أدراك ما القارعة"
+    },
+    {
+      "id": 6161,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 6,
+      "line_end": 7,
+      "aya_no": 4,
+      "aya_text": "‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏‏‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "يوم يكون الناس كالفراش المبثوث"
+    },
+    {
+      "id": 6162,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 7,
+      "line_end": 8,
+      "aya_no": 5,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وتكون الجبال كالعهن المنفوش"
+    },
+    {
+      "id": 6163,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 6,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فأما من ثقلت موازينه"
+    },
+    {
+      "id": 6164,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 8,
+      "line_end": 9,
+      "aya_no": 7,
+      "aya_text": "‏‏‏ ‏ ‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فهو في عيشة راضية"
+    },
+    {
+      "id": 6165,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 8,
+      "aya_text": "‏‏‏‏ ‏‏ ‏‏‏ ‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "وأما من خفت موازينه"
+    },
+    {
+      "id": 6166,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 9,
+      "aya_text": "‏‏‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "فأمه هاوية"
+    },
+    {
+      "id": 6167,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 10,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "وما أدراك ما هيه"
+    },
+    {
+      "id": 6168,
+      "jozz": 30,
+      "page": 600,
+      "line_start": 10,
+      "line_end": 10,
+      "aya_no": 11,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "نار حامية"
+    }
+  ]
+}

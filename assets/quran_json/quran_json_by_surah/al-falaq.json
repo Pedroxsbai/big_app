@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "sura_no": 113,
+    "sura_name_en": "Al-Falaq",
+    "sura_name_ar": "الفَلَق",
+    "total_verses": 5,
+    "created_at": "2025-10-11T18:45:18.005Z"
+  },
+  "verses": [
+    {
+      "id": 6226,
+      "jozz": 30,
+      "page": 604,
+      "line_start": 7,
+      "line_end": 7,
+      "aya_no": 1,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "قل أعوذ برب الفلق"
+    },
+    {
+      "id": 6227,
+      "jozz": 30,
+      "page": 604,
+      "line_start": 7,
+      "line_end": 7,
+      "aya_no": 2,
+      "aya_text": "‏‏ ‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "من شر ما خلق"
+    },
+    {
+      "id": 6228,
+      "jozz": 30,
+      "page": 604,
+      "line_start": 7,
+      "line_end": 8,
+      "aya_no": 3,
+      "aya_text": "‏‏‏ ‏‏ ‏‏‏ ‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "ومن شر غاسق إذا وقب"
+    },
+    {
+      "id": 6229,
+      "jozz": 30,
+      "page": 604,
+      "line_start": 8,
+      "line_end": 8,
+      "aya_no": 4,
+      "aya_text": "‏‏‏ ‏‏ ‏‏‏‏‏ ‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ومن شر النفاثات في العقد"
+    },
+    {
+      "id": 6230,
+      "jozz": 30,
+      "page": 604,
+      "line_start": 9,
+      "line_end": 9,
+      "aya_no": 5,
+      "aya_text": "‏‏‏ ‏‏ ‏‏‏‏ ‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "ومن شر حاسد إذا حسد"
+    }
+  ]
+}

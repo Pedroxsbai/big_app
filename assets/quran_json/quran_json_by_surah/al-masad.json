@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "sura_no": 111,
+    "sura_name_en": "Al-Masad",
+    "sura_name_ar": "المَسَد",
+    "total_verses": 5,
+    "created_at": "2025-10-11T18:45:18.003Z"
+  },
+  "verses": [
+    {
+      "id": 6217,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 1,
+      "aya_text": "‏‏‏ ‏‏‏ ‏‏ ‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "تبت يدا أبي لهب وتب"
+    },
+    {
+      "id": 6218,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 13,
+      "line_end": 13,
+      "aya_no": 2,
+      "aya_text": "‏‏ ‏‏‏ ‏‏‏ ‏‏‏‏ ‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "ما أغنى عنه ماله وما كسب"
+    },
+    {
+      "id": 6219,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 3,
+      "aya_text": "‏‏‏‏ ‏‏‏‏ ‏‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "سيصلى نارا ذات لهب"
+    },
+    {
+      "id": 6220,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 14,
+      "line_end": 14,
+      "aya_no": 4,
+      "aya_text": "‏‏‏‏‏‏‏‏ ‏‏‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "وامرأته حمالة الحطب"
+    },
+    {
+      "id": 6221,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 15,
+      "line_end": 15,
+      "aya_no": 5,
+      "aya_text": "‏ ‏‏‏‏‏ ‏‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "في جيدها حبل من مسد"
+    }
+  ]
+}

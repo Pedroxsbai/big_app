@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "sura_no": 109,
+    "sura_name_en": "Al-Kāfirūn",
+    "sura_name_ar": "الكافِرون",
+    "total_verses": 6,
+    "created_at": "2025-10-11T18:45:18.002Z"
+  },
+  "verses": [
+    {
+      "id": 6208,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 1,
+      "aya_text": "‏‏ ‏‏‏‏‏ ‏‏‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "قل ياأيها الكافرون"
+    },
+    {
+      "id": 6209,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 3,
+      "line_end": 3,
+      "aya_no": 2,
+      "aya_text": "‏ ‏‏‏‏ ‏‏ ‏‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "لا أعبد ما تعبدون"
+    },
+    {
+      "id": 6210,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 3,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ولا أنتم عابدون ما أعبد"
+    },
+    {
+      "id": 6211,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 4,
+      "line_end": 4,
+      "aya_no": 4,
+      "aya_text": "‏‏ ‏‏‏ ‏‏‏ ‏‏ ‏‏‏‏‏ ‏",
+      "aya_text_emlaey": "ولا أنا عابد ما عبدتم"
+    },
+    {
+      "id": 6212,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 5,
+      "aya_text": "‏‏ ‏‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏‏ ‏",
+      "aya_text_emlaey": "ولا أنتم عابدون ما أعبد"
+    },
+    {
+      "id": 6213,
+      "jozz": 30,
+      "page": 603,
+      "line_start": 5,
+      "line_end": 5,
+      "aya_no": 6,
+      "aya_text": "‏‏‏ ‏‏‏‏‏ ‏‏ ‏‏‏ ‏",
+      "aya_text_emlaey": "لكم دينكم ولي دين"
+    }
+  ]
+}
